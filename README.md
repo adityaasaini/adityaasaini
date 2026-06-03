@@ -1,5 +1,13 @@
 # 💫 About Me:
-# Hi 👋, I'm Aditya Saini<br><br>### Java Backend Developer | Spring Boot Developer | AI Enthusiast<br><br>🚀 Passionate about building secure, scalable, and AI-powered backend applications.<br><br>## 💻 Tech Stack<br><br>- Java (Core & Advanced)<br>- Spring Boot<br>- Spring Security<br>- REST APIs<br>- JWT Authentication<br>- OAuth2<br>- PostgreSQL<br>- MySQL<br>- MongoDB<br>- Git & GitHub<br><br>## 🤖 AI & LLM Technologies<br><br>- LangChain<br>- RAG Architecture<br>- Groq API (LLaMA / Mixtral)<br>- FAISS<br>- ChromaDB<br>- GitHub Webhooks<br><br>## 🚀 Featured Projects<br><br>### CodeReview AI<br>AI-powered code review platform integrated with GitHub Webhooks.<br><br>✔ Automated code analysis  <br>✔ OAuth2 Login (Google & GitHub)  <br>✔ JWT Authentication  <br>✔ PostgreSQL Database  <br>✔ Spring Security  <br>✔ AI-powered bug & security detection  <br><br>### AskMyPDF<br>RAG-based chatbot that answers questions directly from PDF documents.<br><br>✔ LangChain  <br>✔ FAISS & ChromaDB  <br>✔ Groq LLM  <br>✔ PDF Processing Pipeline  <br>✔ Zero Hallucination Approach  <br><br>## 🌱 Currently Learning<br><br>- Microservices<br>- System Design<br>- Distributed Systems<br>- Cloud Deployment<br><br>## 🎯 Interests<br><br>Backend Engineering • AI Integration • Cybersecurity • Software Architecture<br><br>## 📫 Connect With Me<br><br>- LinkedIn: www.linkedin.com/in/adityasaini06<br>- GitHub: github.com/adityaasaini
+# Java Backend Developer passionate about building scalable backend systems and AI-powered applications.
+
+⚡ Tech Stack: Java, Spring Boot, Spring Security, PostgreSQL, MySQL, MongoDB
+🔐 Focus: REST APIs, JWT Authentication, OAuth2, Backend Security
+🤖 AI: RAG Applications, LangChain, FAISS, ChromaDB, Groq LLM
+🚀 Deployment: Render, Vercel
+📚 Currently Learning: Microservices & System Design
+
+I enjoy solving real-world problems through backend engineering, AI integration, and secure application architecture.
 
 
 ## 🌐 Socials:
