@@ -1,13 +1,14 @@
 # 💫 About Me:
-# Java Backend Developer passionate about building scalable backend systems and AI-powered applications.
+#🚀 Full Stack Developer & Java Backend Engineer passionate about building scalable web applications and AI-powered solutions.
 
-⚡ Tech Stack: Java, Spring Boot, Spring Security, PostgreSQL, MySQL, MongoDB
-🔐 Focus: REST APIs, JWT Authentication, OAuth2, Backend Security
+💻 Backend: Java, Spring Boot, Spring Security, REST APIs, JWT, OAuth2
+🌐 Full Stack: MongoDB, Express.js, React.js, Node.js (MERN)
+🗄️ Databases: PostgreSQL, MySQL, MongoDB
 🤖 AI: RAG Applications, LangChain, FAISS, ChromaDB, Groq LLM
 🚀 Deployment: Render, Vercel
-📚 Currently Learning: Microservices & System Design
+📚 Currently Learning: Microservices, System Design & Cloud Architecture
 
-I enjoy solving real-world problems through backend engineering, AI integration, and secure application architecture.
+I enjoy building secure backend systems, modern full-stack applications, and AI-integrated products that solve real-world problems.
 
 
 ## 🌐 Socials:
